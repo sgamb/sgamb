@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![image](https://user-images.githubusercontent.com/34862912/157111433-e9593392-4406-4f4f-9b29-467c6981c1f4.png)
+
 <!--
 **sgamb/sgamb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
